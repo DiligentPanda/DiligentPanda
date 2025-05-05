@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiligentPanda&count_private=true&show_icons=true&theme=default)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=DiligentPanda" alt="LeetCode Badges" />
